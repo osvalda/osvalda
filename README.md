@@ -3,7 +3,7 @@
 ### A passionate software developer
 
 <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=osvalda&label=Profile views&color=0e75b6&style=flat" alt="osvalda"/>
+	<img src="https://komarev.com/ghpvc/?username=osvalda&label=Profile%20views&color=0e75b6&style=flat" alt="osvalda"/>
 </p>
 <p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
