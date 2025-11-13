@@ -83,11 +83,11 @@
 	</a>
 </p>
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvalda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="osvalda"/>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osvalda&show_icons=true&locale=en&theme=dracula" alt="osvalda"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=osvalda&show_icons=true&locale=en&theme=dracula" alt="osvalda"/>
 </p>
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osvalda&theme=dracula" alt="osvalda"/>
 </p>
-
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvalda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="osvalda"/>
+</p>
