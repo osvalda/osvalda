@@ -5,11 +5,6 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=osvalda&label=Profile%20views&color=0e75b6&style=flat" alt="osvalda"/>
 </p>
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=osvalda&title=-Stars,-Followers,-Reviews&theme=dracula" alt="osvalda"/>
-	</a>
-</p>
 
 - 📫 How to reach me **elettartam@gmail.com**
 
@@ -81,13 +76,4 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
 		<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 	</a>
-</p>
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=osvalda&show_icons=true&locale=en&theme=dracula" alt="osvalda"/>
-</p>
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osvalda&theme=dracula" alt="osvalda"/>
-</p>
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvalda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="osvalda"/>
 </p>
