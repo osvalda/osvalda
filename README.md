@@ -5,16 +5,15 @@
 
 <h3 align="left">A passionate software developer</h3>
 
-
 - 📫 How to reach me **elettartam@gmail.com**
 
 <h3 align="left">Some Projects:</h3>
 
-- [UnMute](https://un-mute-xi.vercel.app/) - AI pronunciation trainer
-- [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input) - React 24h time input component
-- [Pitaya](https://central.sonatype.com/artifact/io.github.osvalda/Pitaya) - API test coverage reporter for TestNG and JUnit5
-- [Sear Bliss](https://www.searbliss.hu/) - Official website of the band
-- [AnlagePro](https://www.anlage.pro/dashboard) - A travel cost calculator next.js app
+- [UnMute](https://un-mute-xi.vercel.app/){:target="_blank"} - AI pronunciation trainer
+- [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input){:target="_blank"} - React 24h time input component
+- [Pitaya](https://central.sonatype.com/artifact/io.github.osvalda/Pitaya){:target="_blank"} - API test coverage reporter for TestNG and JUnit5
+- [Sear Bliss](https://www.searbliss.hu/){:target="_blank"} - Official website of the band
+- [AnlagePro](https://www.anlage.pro/dashboard){:target="_blank"} - A travel cost calculator next.js app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,7 +58,7 @@
 		<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://skillicons.dev/icons?i=git" alt="mysql" width="40" height="40"/>
+		<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 	</a>
 </p>
 
