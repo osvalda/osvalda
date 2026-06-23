@@ -3,17 +3,7 @@
 	<img src="https://komarev.com/ghpvc/?username=osvalda&label=Profile%20views&color=0e75b6&style=flat" alt="osvalda"/>
 </p>
 
-<h3 align="left">A passionate software developer</h3>
-
-- 📫 How to reach me **elettartam@gmail.com**
-
-<h3 align="left">Some Projects:</h3>
-
-- [UnMute](https://un-mute-xi.vercel.app/) - AI pronunciation trainer
-- [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input) - React 24h time input component
-- [Pitaya](https://central.sonatype.com/artifact/io.github.osvalda/Pitaya) - API test coverage reporter for TestNG and JUnit5
-- [Sear Bliss](https://www.searbliss.hu/) - Official website of the band
-- [AnlagePro](https://www.anlage.pro/dashboard) - A travel cost calculator next.js app
+<h2 align="left">A passionate software developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +16,18 @@
 	<a href="https://akos-osvald.medium.com/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akos-osvald" height="30" width="40"/>
 	</a>
+	<a href="mailto:elettartam@gmail.com" target="blank">
+		<img align="center" src="https://www.svgrepo.com/show/484564/email-part-2.svg" alt="email" height="30" width="40"/>
+	</a>
 </p>
+
+<h3 align="left">Some Projects:</h3>
+
+- [UnMute](https://un-mute-xi.vercel.app/) - AI pronunciation trainer
+- [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input) - React 24h time input component
+- [Pitaya](https://central.sonatype.com/artifact/io.github.osvalda/Pitaya) - API test coverage reporter for TestNG and JUnit5
+- [Sear Bliss](https://www.searbliss.hu/) - Official website of the band
+- [AnlagePro](https://www.anlage.pro/dashboard) - A travel cost calculator next.js app
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
