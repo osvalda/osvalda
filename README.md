@@ -25,7 +25,7 @@
 
 - [UnMute](https://un-mute-xi.vercel.app/) - AI pronunciation trainer
 - [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input) - React 24h time input component
-- [Pitaya](https://central.sonatype.com/artifact/io.github.osvalda/Pitaya) - API test coverage reporter for TestNG and JUnit5
+- [Pitaya](https://osvalda.github.io/Pitaya/) - API test coverage reporter for TestNG and JUnit5
 - [Sear Bliss](https://www.searbliss.hu/) - Official website of the band
 - [AnlagePro](https://reise-kosten-calculator-1xhk8nnad-akos-projects-44d39a0c.vercel.app/login) - A travel cost calculator next.js app
 
