@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Akos Osvald</h1>
+### Hi 👋, I'm Akos Osvald
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=osvalda&label=Profile%20views&color=0e75b6&style=flat" alt="osvalda"/>
 </p>
 
-<h2 align="left">A passionate software developer</h2>
+## A passionate software developer
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 	<a href="https://github.com/osvalda" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="osvalda" height="30" width="40"/>
@@ -21,7 +21,7 @@
 	</a>
 </p>
 
-<h3 align="left">Some Projects:</h3>
+### Some of my projects
 
 - [UnMute](https://un-mute-xi.vercel.app/) - AI pronunciation trainer
 - [Smart Time Input React Component](https://www.npmjs.com/package/@osvalda/smart-time-input) - React 24h time input component
@@ -29,7 +29,7 @@
 - [Sear Bliss](https://www.searbliss.hu/) - Official website of the band
 - [AnlagePro](https://www.anlage.pro/) - A travel cost calculator next.js app
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
 		<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
@@ -96,4 +96,9 @@
 	</a>
 </p>
 
+### GitHub stats
+
+![GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=osvalda&show_icons=true)
+![Top languages](https://github-readme-stats-extended.vercel.app/api/top-langs?username=osvalda&layout=compact&hide=html,css)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osvalda&name=Ákos+Osvald)
 
